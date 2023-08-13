@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	var conference = "hello"
-	const  conferenceTickets = 50
+	const  conferenceTickets = 50o
 	var remainingTickets = 50
 
 
