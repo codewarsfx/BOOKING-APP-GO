@@ -13,7 +13,4 @@ func main() {
 	fmt.Println("we have a total of",conferenceTickets,"tickets and ", remainingTickets, "are still remaining")
 	fmt.Println("Get your tickets to attend ")
 
-	
-
-
 }
